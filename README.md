@@ -4,12 +4,12 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![firts-repo](https://github.com/Turgay044/kodluyoruzilkrepo/blob/main/Pictures/Template.png)
 
 ## Installation
+Kodluyoruz Front-End Eğitimi kapsamında açtığım bir repo
 
 ```
 https://github.com/Turgay044/kodluyoruzilkrepo.git
 
 ```
-Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
