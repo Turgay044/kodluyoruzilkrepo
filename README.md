@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-end egitimi kapsaminda a
 
 ## Installation
 
-![Gorsel](https://github.com/Turgay044/kodluyoruzilkrepo.git)
+[Github](https://github.com/Turgay044/kodluyoruzilkrepo.git)
 
 
 Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
