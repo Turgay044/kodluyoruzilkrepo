@@ -4,9 +4,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-end egitimi kapsaminda a
 
 ## Installation
 
-[Github](https://github.com/Turgay044/kodluyoruzilkrepo.git)
+```
+https://github.com/muhammetaksu/kodluyoruzilkrepo.git
 
-
+```
 Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 ## Usage
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
